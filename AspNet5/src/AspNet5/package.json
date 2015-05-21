@@ -1,0 +1,11 @@
+{
+  "name": "ASP.NET",
+  "version": "0.0.0",
+  "description": "New Project",
+  "repository": { },
+  "readme": "New Project Readme",
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "rimraf": "2.2.8"
+  }
+}
