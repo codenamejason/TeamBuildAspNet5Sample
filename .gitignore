@@ -122,6 +122,7 @@ publish/
 
 #ASP.NET 5 Artifacts
 */artifacts
+*/src/*/wwwroot/lib/*
 
 # Publish Web Output
 *.[Pp]ublish.xml
